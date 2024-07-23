@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         The Reproducibility Working Group Bibliography
-     
       text: |
         <br>
 
