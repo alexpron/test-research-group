@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: The Reproducibility Working Group Bibliography 
-      text: This website gathers (useful) resources for the study of reproducibility in neuroimaging. This repository is maintained by the reproducibility working group (PI:Camille Maumet) of the Empenn research team.
+      text: test
   
   - block: collection
     content:
