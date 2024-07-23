@@ -5,11 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: The Reproducibility Working Group Bibliography 
-      text: ""
-  
+#  - block: hero
+#    content:
+#      title: The Reproducibility Working Group Bibliography 
+#      text: ""
   - block: markdown
     content:
       title:
