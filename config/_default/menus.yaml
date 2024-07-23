@@ -19,6 +19,6 @@ main:
   - name: Bibliography
     url: publication
     weight: 10
-  - name: Shared Zotero Bibliography
+  - name: Shared Zotero Library
     url: contact
     weight: 20

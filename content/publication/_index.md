@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Bibliography
 
 # Listing view
 view: citation

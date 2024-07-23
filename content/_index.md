@@ -14,7 +14,6 @@ sections:
       title: "Welcome ! :wave:"
       subtitle: ''
       text: "This website gathers (useful) resources for the study of reproducibility in neuroimaging. This website is maintained by the reproducibility working group (led by [Camille Maumet](http://camillemaumet.com/)) of the [Empenn research team](https://team.inria.fr/empenn/)"
-
     design:
       columns: '1'
       spacing:
